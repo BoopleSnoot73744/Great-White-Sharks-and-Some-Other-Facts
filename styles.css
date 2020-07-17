@@ -1,0 +1,10 @@
+body {
+  background-color: skyblue;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+img {
+  width: 50%;
+  height: 300px;
+}
